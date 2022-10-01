@@ -10,4 +10,6 @@ elseif PlaceId == 286090429 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/asenal/main/README.md")()
 elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/KingLagacy/main/README.md")()
+elseif PlaceId == 394506555 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
 end
