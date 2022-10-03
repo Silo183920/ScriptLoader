@@ -21,7 +21,7 @@ game.StarterGui:SetCore(
     {
         Title = "HALOxHUB",
         Text = "NotMap",
-		Icon = "rbxassetid://9166515678",
+		Icon = "rbxassetid://11143490812",
 		Duration = 10
     }
 )
