@@ -12,4 +12,16 @@ elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 t
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/KingLagacy/main/README.md")()
 elseif PlaceId == 394506555 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
+elseif PlaceId == 394506555 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Murder-Mystery-2/main/README.md")()
 end
+
+game.StarterGui:SetCore(
+    "SendNotification",
+    {
+        Title = "HALOxHUB",
+        Text = "NotMap",
+		Icon = "rbxassetid://9166515678",
+		Duration = 10
+    }
+)
