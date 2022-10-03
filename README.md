@@ -14,6 +14,8 @@ elseif PlaceId == 394506555 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
 elseif PlaceId == 142823291 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Murder-Mystery-2/main/README.md")()
+elseif PlaceId == 4855457388 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
 end
 
 game.StarterGui:SetCore(
