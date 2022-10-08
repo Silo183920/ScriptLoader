@@ -9,14 +9,10 @@ elseif PlaceId == 537413528 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Build-A-Boat/main/README.md")()
 elseif PlaceId == 5602055394 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/DAHOOD/main/README.md")()
-elseif PlaceId == 286090429 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/asenal/main/README.md")()
 elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/KingLagacy/main/README.md")()
 elseif PlaceId == 394506555 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
-elseif PlaceId == 142823291 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Murder-Mystery-2/main/README.md")()
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
 end
