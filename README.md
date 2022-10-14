@@ -11,6 +11,8 @@ elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 t
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/KingLagacy/main/README.md")()
 elseif PlaceId == 394506555 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
+elseif PlaceId == 9772878203 or 9921522947 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Glue-Piece/main/README.md")()
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
 end
