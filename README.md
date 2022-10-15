@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/README.md")()
---ทุกสคิปมีโอกาสโดนแบน!
+--สคิปทุกฮับมีโอกาสโดนแบน!
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
@@ -15,6 +15,4 @@ elseif PlaceId == 9772878203 or PlaceId == 9921522947 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/RaiseAFloppa2/main/README.md")()
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
-elseif PlaceId == 1730877806 or PlaceId == 3978370137 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/GrandPieceOnline/main/README.md")()
 end
