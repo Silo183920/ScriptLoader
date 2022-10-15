@@ -15,4 +15,6 @@ elseif PlaceId == 9772878203 or 9921522947 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/RaiseAFloppa2/main/README.md")()
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
+elseif PlaceId == 1730877806 or PlaceId == 3978370137 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/GrandPieceOnline/main/README.md")()
 end
