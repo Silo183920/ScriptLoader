@@ -1,5 +1,6 @@
 -------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/README.md")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/ANTIAFK/main/README.md")()
 --สคิปทุกฮับมีโอกาสโดนแบน!
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
