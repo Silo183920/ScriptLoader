@@ -16,13 +16,4 @@ elseif PlaceId == 9772878203 or PlaceId == 9921522947 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/RaiseAFloppa2/main/README.md")()
 elseif PlaceId == 4855457388 or PlaceId == 5094651510 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Demonfall/main/README.md")()
-elseif game.StarterGui:SetCore(
-    "SendNotification",
-    {
-        Title = "HALOxHUB",
-        Text = "Not MapXD",
-		Icon = "rbxassetid://9166515678",
-		Duration = 9
-    }
-)
 end
