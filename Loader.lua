@@ -1,6 +1,10 @@
 -------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/README.md")()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/ANTIAFK/main/README.md")()
+local VirtualUser=game:service'VirtualUser'
+game:service'Players'.LocalPlayer.Idled:connect(function()
+VirtualUser:CaptureController()
+VirtualUser:ClickButton2(Vector2.new())
+end)
 --สคิปทุกฮับมีโอกาสโดนแบน!
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
