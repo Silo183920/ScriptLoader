@@ -1,11 +1,4 @@
--------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/README.md")()
-local VirtualUser=game:service'VirtualUser'
-game:service'Players'.LocalPlayer.Idled:connect(function()
-VirtualUser:CaptureController()
-VirtualUser:ClickButton2(Vector2.new())
-end)
---สคิปทุกฮับมีโอกาสโดนแบน!
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/MBNEWUPD18/main/BloxFruit.lua")()
