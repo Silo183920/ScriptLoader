@@ -2,6 +2,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/WebHook/main/
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/MBNEWUPD18/main/BloxFruit.lua")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/NotifyMoonAndMysticIsland/main/Loading.lua")()
 elseif PlaceId == 537413528 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HALOxHUB/Build-A-Boat/main/README.md")()
 elseif PlaceId == 394506555 then
